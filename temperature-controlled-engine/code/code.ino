@@ -1,8 +1,3 @@
-/*
-  => Ogrenci Adi-Soyadi: Aziz Can HAMASOGLU
-  => Ogrenci No        : 200260094
-*/
-
 // LM35 Sıcaklık Sensörü
 int sensorPin = A0;
 
